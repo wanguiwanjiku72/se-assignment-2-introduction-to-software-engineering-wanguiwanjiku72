@@ -43,7 +43,7 @@ Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
 Software Engineering is the designing, developing, testing and maintaining of software systems using computing tools, principles and methodology. 
 
-software development involves analysis, system designing, writing of code, system testing, and system maintenance. in traditional programming, however, merely revolves around coding rather than encompassing all aspects of software production.
+Software development involves analysis, system designing, writing of code, system testing, and system maintenance. in traditional programming, however, merely revolves around coding rather than encompassing all aspects of software production.
 Sustainable Development Life Cycle 
 Agile vs. Waterfall Models
 Waterfall Model: Staged methodology where each phase is clearly defined and follows the previous one. More suitable for projects where it is easy to determine what is required and there is not expected to be much variation. But at the same time it can be not very flexible and can not meet the new requirements as effectively as needed.
